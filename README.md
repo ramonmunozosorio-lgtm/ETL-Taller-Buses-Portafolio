@@ -81,6 +81,20 @@ Se desarrolló un prototipo funcional y se realizaron pruebas piloto. Queda pend
 3. Revisar y sanitizar el código demostrativo.
 4. Documentar pasos de ejecución y resultados esperados.
 
+
 ## Nota de privacidad
 
 El material original del taller, incluidas conversaciones, fotos, videos, identificadores y credenciales, queda fuera de este repositorio. La versión pública usará únicamente datos sintéticos y materiales aptos para difusión.
+
+
+## Evidencia visual del sistema
+
+### Reporte ETL y validación de órdenes de trabajo
+
+La siguiente captura corresponde al entorno demostrativo del proyecto y muestra cómo el sistema consolida información operacional, vincula evidencias y aplica controles de validación sobre órdenes de trabajo.
+
+El campo `Validacion_OT` permite identificar registros que requieren revisión, mientras que `Estado_Asociacion` documenta el resultado de la vinculación de evidencias.
+
+![Reporte ETL y validación de órdenes de trabajo](reporte-etl-validacion.png)
+
+*Figura 1. Salida del ETL V4.2.1 en Excel con datos demostrativos.*
