@@ -98,3 +98,11 @@ El campo `Validacion_OT` permite identificar registros que requieren revisión, 
 ![Reporte ETL y validación de órdenes de trabajo](reporte-etl-validacion.png)
 
 *Figura 1. Salida del ETL V4.2.1 en Excel con datos demostrativos.*
+
+## Demostración funcional en video
+
+Video del prototipo ETL: extracción, automatización, validación de órdenes de trabajo y generación de reportes.
+
+[▶ Ver demostración del Taller de Buses en YouTube](https://youtu.be/LJgkegurwG0)
+
+*Demostración realizada con datos ficticios.*
